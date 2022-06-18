@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.localhost.playgroundInfo.StoresCRUDTest" skipped="0" tests="1" time="4.8" timestamp="2022-06-07T21:24:32.053+02:00[Europe/Paris]"><testcase classname="com.localhost.playgroundInfo.StoresCRUDTest" name="9. Verify the storeId = 11 for the 6th store"><error message="java.util.ArrayList cannot be cast to java.util.HashMap" type="java.lang.ClassCastException">java.util.ArrayList cannot be cast to java.util.HashMap</error><system-err>java.util.ArrayList cannot be cast to java.util.HashMap&#13;
+com.localhost.playgroundInfo.StoresCRUDTest.test013(StoresCRUDTest.java:169)&#13;
+</system-err></testcase></testsuite>
