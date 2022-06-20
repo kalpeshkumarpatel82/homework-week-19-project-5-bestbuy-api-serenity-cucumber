@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a user I would like to preform CURD test on services endpoint","I read all services data from the application","SUCCESS","2022-06-19T14:23:12.886+02:00[Europe/Paris]","0.0","0.06"
+"As a user I would like to preform CURD test on services endpoint","I create a new service on services end point","SUCCESS","2022-06-19T14:23:12.983+02:00[Europe/Paris]","0.0","0.1"
+"As a user I would like to preform CURD test on services endpoint","I read a newly created service on services end point","SUCCESS","2022-06-19T14:23:13.171+02:00[Europe/Paris]","0.0","0.08"
+"As a user I would like to preform CURD test on services endpoint","I update a newly created service on services end point","SUCCESS","2022-06-19T14:23:13.284+02:00[Europe/Paris]","0.0","0.06"
+"As a user I would like to preform CURD test on services endpoint","I delete a newly created service on services end point","SUCCESS","2022-06-19T14:23:13.419+02:00[Europe/Paris]","0.0","0.14"

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.localhost.playgroundInfo.StoresCRUDTest" time="1.376" tests="15" errors="0" skipped="0" failures="0">
+<testsuite name="com.localhost.playgroundInfo.StoresCRUDTest" time="1.553" tests="15" errors="0" skipped="0" failures="0">
   <properties>
     <property name="idea.version" value="2021.3.3"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin"/>
     <property name="java.vm.version" value="25.121-b13"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Kalpesh\IdeaProjects\homework-week-18-project-5-bestbuy-api-serenity"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Kalpesh\IdeaProjects\homework-week-19-project-5-bestbuy-api-serenity-cucumber"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\Kalpesh\IdeaProjects\homework-week-18-project-5-bestbuy-api-serenity"/>
+    <property name="user.dir" value="C:\Users\Kalpesh\IdeaProjects\homework-week-19-project-5-bestbuy-api-serenity-cucumber"/>
     <property name="java.runtime.version" value="1.8.0_121-b13"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\endorsed"/>
@@ -63,19 +63,19 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="test001" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.08"/>
-  <testcase name="test002" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.024"/>
-  <testcase name="test003" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.045"/>
-  <testcase name="test004" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.034"/>
-  <testcase name="test005" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.12"/>
-  <testcase name="test006" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.081"/>
-  <testcase name="test007" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.088"/>
-  <testcase name="test008" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.1"/>
-  <testcase name="test009" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.074"/>
-  <testcase name="test010" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.089"/>
-  <testcase name="test011" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.05"/>
-  <testcase name="test012" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.058"/>
-  <testcase name="test013" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.055"/>
-  <testcase name="test014" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.05"/>
-  <testcase name="test015" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.428"/>
+  <testcase name="test001" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.042"/>
+  <testcase name="test002" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.017"/>
+  <testcase name="test003" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.047"/>
+  <testcase name="test004" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.047"/>
+  <testcase name="test005" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.08"/>
+  <testcase name="test006" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.097"/>
+  <testcase name="test007" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.073"/>
+  <testcase name="test008" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.066"/>
+  <testcase name="test009" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.077"/>
+  <testcase name="test010" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.088"/>
+  <testcase name="test011" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.086"/>
+  <testcase name="test012" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.056"/>
+  <testcase name="test013" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.066"/>
+  <testcase name="test014" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.066"/>
+  <testcase name="test015" classname="com.localhost.playgroundInfo.StoresCRUDTest" time="0.645"/>
 </testsuite>

@@ -36,13 +36,13 @@
     <script class="code" type="text/javascript">$(document).ready(function () {
         var test_results_plot = $.jqplot('test_results_pie_chart', [
             [
-                ['Passing', 1],
+                ['Passing', 0.921569],
                 
                 ['Pending', 0],
                 
                 ['Ignored', 0],
                 
-                ['Failing', 0],
+                ['Failing', 0.078431],
                 
                 ['Errors',  0]
             ]
@@ -73,23 +73,23 @@
                 marginTop: '15px'
             },
             series: [
-                {label: '29 / 29 tests passed' },
-                {label: '0 / 29 tests pending'},
-                {label: '0 / 29 tests not executed'},
-                {label: '0 / 29 tests failed'},
-                {label: '0 / 29 errors'}
+                {label: '47 / 51 tests passed' },
+                {label: '0 / 51 tests pending'},
+                {label: '0 / 51 tests not executed'},
+                {label: '4 / 51 tests failed'},
+                {label: '0 / 51 errors'}
             ]
         });
 
         var weighted_test_results_plot = $.jqplot('weighted_test_results_pie_chart', [
             [
-                ['Passing', 1],
+                ['Passing', 0.905738],
                 
                 ['Pending', 0],
                 
                 ['Ignored', 0],
                 
-                ['Failing', 0],
+                ['Failing', 0.094262],
                 
                 ['Errors', 0]
             ]
@@ -121,11 +121,11 @@
                 marginTop: '15px'
             },
             series: [
-                {label: '29 / 29 tests passed (1% of all test steps)' },
-                {label: '0 / 29 tests pending'},
-                {label: '0 / 29 tests not executed'},
-                {label: '0 / 29 tests failed (0% of all test steps)'},
-                {label: '0 / 29 errors (0% of all test steps)'}
+                {label: '47 / 51 tests passed (0.905738% of all test steps)' },
+                {label: '0 / 51 tests pending'},
+                {label: '0 / 51 tests not executed'},
+                {label: '4 / 51 tests failed (0.094262% of all test steps)'},
+                {label: '0 / 51 errors (0% of all test steps)'}
             ]
         });
 
@@ -186,7 +186,7 @@
             <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 07-06-2022 16:02</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 19-06-2022 14:23</span>
     <br style="clear:left"/>
 </div>
     <div class="clr"></div>

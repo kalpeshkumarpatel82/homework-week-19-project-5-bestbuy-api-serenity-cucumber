@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a user I would like to preform CURD test on categories endpoint","I read all categories data from the application","SUCCESS","2022-06-19T14:23:01.253+02:00[Europe/Paris]","0.0","4.68"
+"As a user I would like to preform CURD test on categories endpoint","I create a new category on categories end point","SUCCESS","2022-06-19T14:23:07.510+02:00[Europe/Paris]","0.0","1.6"
+"As a user I would like to preform CURD test on categories endpoint","I read a newly created category on categories end point","SUCCESS","2022-06-19T14:23:09.159+02:00[Europe/Paris]","0.0","0.09"
+"As a user I would like to preform CURD test on categories endpoint","I update a newly created category on categories end point","SUCCESS","2022-06-19T14:23:09.798+02:00[Europe/Paris]","0.0","0.11"
+"As a user I would like to preform CURD test on categories endpoint","I delete a newly created category on categories end point","SUCCESS","2022-06-19T14:23:09.975+02:00[Europe/Paris]","0.0","0.61"

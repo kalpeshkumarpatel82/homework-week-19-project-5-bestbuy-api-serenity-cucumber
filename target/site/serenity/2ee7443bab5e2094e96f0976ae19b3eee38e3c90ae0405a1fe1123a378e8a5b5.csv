@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a user I would like to preform CURD test on stores endpoint","I create a new store on stores end point","SUCCESS","2022-06-19T14:23:13.698+02:00[Europe/Paris]","0.0","0.17"
+"As a user I would like to preform CURD test on stores endpoint","I read a newly created store on stores end point","SUCCESS","2022-06-19T14:23:13.963+02:00[Europe/Paris]","0.0","0.08"
+"As a user I would like to preform CURD test on stores endpoint","I update a newly created store on stores end point","SUCCESS","2022-06-19T14:23:14.089+02:00[Europe/Paris]","0.0","0.08"
+"As a user I would like to preform CURD test on stores endpoint","I delete a newly created store on stores end point","SUCCESS","2022-06-19T14:23:14.195+02:00[Europe/Paris]","0.0","0.05"
+"As a user I would like to preform CURD test on stores endpoint","I read all stores data from the application","SUCCESS","2022-06-19T14:23:14.293+02:00[Europe/Paris]","0.0","1.21"

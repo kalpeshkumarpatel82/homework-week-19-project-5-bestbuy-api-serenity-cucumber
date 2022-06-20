@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.localhost.cucumber.StoresRunner
+-------------------------------------------------------------------------------
+Tests run: 33, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.99 sec - in com.localhost.cucumber.StoresRunner
